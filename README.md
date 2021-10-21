@@ -1,6 +1,6 @@
 # Тестовое задание на вакансию Frontend разработчик
 
-[VERSEL](https://github.com/facebook/create-react-app)
+[VERSEL](https://voodoo-test-xi.vercel.app/)
 
 ## `Задача`
 
