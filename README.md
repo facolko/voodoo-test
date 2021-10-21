@@ -1,5 +1,5 @@
 # Тестовое задание на вакансию Frontend разработчик
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
+- ![#f03c15](https://github.com/facebook/create-react-app) `Versel`
 
 [Versel](https://github.com/facebook/create-react-app)
 
