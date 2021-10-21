@@ -1,6 +1,7 @@
 # Тестовое задание на вакансию Frontend разработчик
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
 
-[Versel](https://github.com/facebook/create-react-app).
+[Versel](https://github.com/facebook/create-react-app)
 
 ## `Задача`
 
@@ -11,14 +12,12 @@
 
 
 
+## `Требования`
 
-### `yarn start`
+В качестве фреймворка рекомендуется использовать Vue.js, однако это не строгое  требование. Если вы предпочтете решить задачу с помощью React или Angular - это не будет ошибкой.
+Для верстки рекомендуется Bootstrap 4, но также допускается использование  любого другого CSS-фреймворка на ваш выбор. Рекомендуется использовать  препроцессоры для стилей (SASS, LESS). 
+Дизайн макетов, представленных во вложении не обязательно повторять в точности  до пикселя. 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
 ### `yarn test`
 
